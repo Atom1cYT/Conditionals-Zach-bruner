@@ -1,0 +1,14 @@
+C:\Users\ZacharyBruner\source\repos\Conditionals Zach bruner\bin\Debug\net6.0\Conditionals Zach bruner.exe
+C:\Users\ZacharyBruner\source\repos\Conditionals Zach bruner\bin\Debug\net6.0\Conditionals Zach bruner.deps.json
+C:\Users\ZacharyBruner\source\repos\Conditionals Zach bruner\bin\Debug\net6.0\Conditionals Zach bruner.runtimeconfig.json
+C:\Users\ZacharyBruner\source\repos\Conditionals Zach bruner\bin\Debug\net6.0\Conditionals Zach bruner.dll
+C:\Users\ZacharyBruner\source\repos\Conditionals Zach bruner\bin\Debug\net6.0\Conditionals Zach bruner.pdb
+C:\Users\ZacharyBruner\source\repos\Conditionals Zach bruner\obj\Debug\net6.0\Conditionals Zach bruner.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ZacharyBruner\source\repos\Conditionals Zach bruner\obj\Debug\net6.0\Conditionals Zach bruner.AssemblyInfoInputs.cache
+C:\Users\ZacharyBruner\source\repos\Conditionals Zach bruner\obj\Debug\net6.0\Conditionals Zach bruner.AssemblyInfo.cs
+C:\Users\ZacharyBruner\source\repos\Conditionals Zach bruner\obj\Debug\net6.0\Conditionals Zach bruner.csproj.CoreCompileInputs.cache
+C:\Users\ZacharyBruner\source\repos\Conditionals Zach bruner\obj\Debug\net6.0\Conditionals Zach bruner.dll
+C:\Users\ZacharyBruner\source\repos\Conditionals Zach bruner\obj\Debug\net6.0\refint\Conditionals Zach bruner.dll
+C:\Users\ZacharyBruner\source\repos\Conditionals Zach bruner\obj\Debug\net6.0\Conditionals Zach bruner.pdb
+C:\Users\ZacharyBruner\source\repos\Conditionals Zach bruner\obj\Debug\net6.0\Conditionals Zach bruner.genruntimeconfig.cache
+C:\Users\ZacharyBruner\source\repos\Conditionals Zach bruner\obj\Debug\net6.0\ref\Conditionals Zach bruner.dll
